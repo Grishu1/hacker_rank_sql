@@ -1,2 +1,2 @@
-# hacker_rank_sql
+# HackerRank_sql
 Hacker rank sql problem solution
